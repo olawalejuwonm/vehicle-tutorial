@@ -1,0 +1,9 @@
+Package           Version
+----------------- -------
+agda              2.7.0.1
+jaxtyping         0.2.38
+maraboupy         2.0.0
+pip               25.2
+typing_extensions 4.14.1
+vehicle_lang      0.16.1
+wadler_lindig     0.1.7
